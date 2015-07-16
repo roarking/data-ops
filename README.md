@@ -1,2 +1,2 @@
 # data-ops
-A collection of build scripts, DockerFiles, and everything dev/data-ops related 
+A collection of dev and data ops scripts, configs, virtual containers, etc.
